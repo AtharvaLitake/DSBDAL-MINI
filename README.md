@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of the README that includes information about the sentiment analysis model used to derive people's sentiments about the website through the open-ended question:
-
----
-
 # PICT Website Review Analysis
 
 ## Overview
@@ -49,6 +45,3 @@ Based on the analysis, the following recommendations are proposed:
 
 The analysis highlights areas for improvement in the PICT website, particularly focusing on UI design, accessibility, responsiveness, and color scheme. Addressing these issues can lead to a better user experience and increased satisfaction among students.
 
----
-
-Feel free to customize and expand upon this README as needed for your GitHub repository.
